@@ -1,0 +1,33 @@
+<android.support.constraint.ConstraintLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/splash"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="50dp">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:id="@+id/splashimg"
+        android:src="@drawable/splashimg"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fat-A-Fot ShopKeeper "
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:layout_marginTop="100dp"
+            android:textColor="@color/colorPrimaryDark"/>
+<pl.droidsonroids.gif.GifImageView
+    android:layout_width="125dp"
+    android:layout_height="125dp"
+    android:src="@drawable/eclipse"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669516310878",
+    "firebase_url": "https://fatshopkeeper.firebaseio.com",
+    "project_id": "fatshopkeeper",
+    "storage_bucket": "fatshopkeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669516310878:android:3b00620a36017c41",
+        "android_client_info": {
+          "package_name": "com.fat_a_fot.fat_shopkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669516310878-kk4nhs0dmpik0bp34a6hihml2gkj52tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fat_a_fot.fat_shopkeeper",
+            "certificate_hash": "75ae14187a6f45046492fe5fbb4a8d0be3314058"
+          }
+        },
+        {
+          "client_id": "669516310878-omjtr68m3eg64cog57g9hlh43qdetp6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8CkGmcGMj9k-dyH2MGc-akidvozNFew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669516310878-omjtr68m3eg64cog57g9hlh43qdetp6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
